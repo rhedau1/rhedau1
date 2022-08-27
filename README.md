@@ -32,3 +32,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhedau1&show_icons=true&locale=en" alt="rhedau1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhedau1&" alt="rhedau1" /></p>
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rhedau1&&theme=xcode)](https://github.com/rhedau1)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhedau1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rhedau1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhedau1&show_icons=true&locale=en&theme=tokyonight" alt="rhedau1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhedau1&&theme=tokyonight" alt="rhedau1" /></p>
